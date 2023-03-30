@@ -29,4 +29,4 @@ During my time in college, I have developed 2D games and built a robot with ultr
 
 Thank you for visiting my Github! Please feel free to reach out if you have any questions or if you would like to collaborate on a project.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Qwowjw&theme=neon&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Qwowjw&theme=neon&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
