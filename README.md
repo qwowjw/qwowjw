@@ -33,9 +33,4 @@ Thank you for visiting my Github! Please feel free to reach out if you have any 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwowjw&hide=Makefile&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/qwowjw/github-readme-stats)
 
-<a href="https://github.com/qwowjw/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qwowjw&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/qwowjw/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qwowjw&repo=convoychat" />
-</a>
+
